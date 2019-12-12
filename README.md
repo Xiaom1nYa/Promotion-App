@@ -55,4 +55,4 @@ https://play.google.com/store/apps/details?id=com.bestfree.apppromote
 ```diff
 + Donate with wechat
 ```
-<img src="https://github.com/lau1944/Android-Promotion-App/blob/master/wechat.png" alt="Donate with wechat" width="300"/>
+<img src="https://github.com/lau1944/Promotion-App/blob/master/wechat.png" alt="Donate with wechat" width="300"/>
